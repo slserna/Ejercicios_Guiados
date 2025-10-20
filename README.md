@@ -1,24 +1,4 @@
-<!doctype html>
-<html lang="es">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Portada - Estructura de Datos</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    /* Página y contenedor de impresión (A4-friendly) */
-    :root{
-      --beige:#f5efe0;
-      --accent:#6b4f3c; /* tono marrón para texto */
-    }
-    html,body{height:100%;}
-    body{
-      margin:0;
-      background:var(--beige);
-      font-family: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-      color:var(--accent);
-      -webkit-print-color-adjust: exact;
-    }
+
 
     /* Contenedor centrado como hoja */
     .sheet{
