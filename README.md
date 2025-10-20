@@ -1,19 +1,46 @@
-<!-- index.html -->
-<div class="sheet">
-  <div class="corner top-left"><img src="https://media.tenor.com/rysQ0YYMcxEAAAAi/cogumelo-mario-bros.gif" alt="hongo"></div>
-  <div class="corner top-right"><img src="[mushroom2.svg](https://tenor.com/view/super-mario-mushroom-gif-10815853)" alt="hongo"></div>
-  <div class="corner bottom-left"><img src="mushroom3.svg" alt="hongo"></div>
-  <div class="corner bottom-right"><img src="mushroom4.svg" alt="hongo"></div>
+<div align="center">
+<h1>  𓇼 ⋆𓆉 𓆝 𓆡⋆𓇼𝓢𝓪𝓻𝓪 𝓛𝓲𝔃𝓫𝓮𝓽𝓱 𝓢𝓮𝓻𝓷𝓪 𝓡𝓸𝓭𝓻𝓲𝓰𝓾𝓮𝔃𓇼 ⋆𓆉 𓆝 𓆡⋆.˚ 𓇼 </h1><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk3dm1jajRseGQ4ZGM1cGpieDFoZ3Bzbnozemo4bWN0dnNiajdhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yx4H8ateWi14IwjaKt/giphy.gif" width="180"/> 
 
-  <img src="mario-mushroom.png" class="mario-edge m1" alt="mario mushroom">
-  <img src="mario-mushroom.png" class="mario-edge m2" alt="mario mushroom">
-  <img src="mario-mushroom.png" class="mario-edge m3" alt="mario mushroom">
-  <img src="mario-mushroom.png" class="mario-edge m4" alt="mario mushroom">
+<br>
 
-  <div class="content">
-    <h2 class="subtitle">Estructura de Datos</h2>
-    <h1 class="title">Portada del Proyecto</h1>
-    <div class="name">Sara Lizbet Serna Rodríguez</div>
-    <div class="group">Grupo: 5°A</div>
-  </div>
+## <p>🍄 𝗚𝗧𝗜𝗗𝟭𝟰𝟭 𝗘𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗔 𝗗𝗘 𝗗𝗔𝗧𝗢𝗦 🍄 </p>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4NHkxbmljMG14OXVxcWZ5cGc1ZWFhYnVqbGxzYXNrb3I4MDYxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1AHDbfCF9qV0wJQPiz/giphy.gif">
+
+<br>
+
+ ##  <p> 🍄 *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚🍄</p>
+
+<br>
+
+  <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp" width="110px"/>
+  </a>
+  &emsp;
+ <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/L2NVsm9IRsUAAAAm/mario-bros-star-star-arcade.webp" width="110px"/>
+  </a>
+  &emsp;
+   <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp" width="110px"/>
+  </a>
+  &emsp;
+   <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/4tGuPJECxLEAAAAm/8-bit-super-mario-bros.webp" width=150px"/>
+  </a>
+  &emsp;
+   <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp" width="110px"/>
+  </a>
+  &emsp;
+   <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/L2NVsm9IRsUAAAAm/mario-bros-star-star-arcade.webp" width="110px"/>
+  </a>
+  &emsp;
+   <a target="_blank" rel="noopener noreferrer" href= "https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp">
+    <img src="https://media.tenor.com/rysQ0YYMcxEAAAAm/cogumelo-mario-bros.webp" width="110px"/>
+  </a>
+  &emsp;
+  
+<br>
 </div>
