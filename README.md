@@ -53,4 +53,8 @@
  | GUIADOS | Second Header |
 | ------------- | ------------- |
 | U2ACT1 Ejercicio de Lista Enlazada Simple con VisuAlgo  | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS)|
-| google | [Ir a Google](https://www.google.com) |
+| U2ACT1 Quices De Java |[Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
+|U2ACT2 Ejercicio de Pila con VisuAlgo|[Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS)|
+| U2ACT2 Lista Encantada Humana en Java |  [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
+| U2ACT3 Práctica Manual y Algorítmica Lista | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
+| U2ACT2 Especificación de la Pila | [ Ver codigos ] (https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/U2ACT2%20Especificaci%C3%B3n%20de%20la%20Pila) |
