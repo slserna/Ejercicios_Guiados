@@ -46,11 +46,9 @@
 </div>
 
 
-<p> EJERCICIOS GUIADOS 
- https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUAIDOS
+<p> [EJERCICIOS GUIADOS] ( https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUAIDOS) 
 
-
- | GUIADOS | Second Header |
+ | GUIADOS | LINKS |
 | ------------- | ------------- |
 | U2ACT1 Ejercicio de Lista Enlazada Simple con VisuAlgo  | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS)|
 | U2ACT1 Quices De Java |[Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
