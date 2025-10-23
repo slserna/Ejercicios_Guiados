@@ -53,4 +53,4 @@
  | GUIADOS | Second Header |
 | ------------- | ------------- |
 |  https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUAIDOS | Content Cell |
-| Content Cell | Content Cell |
+| EJERCICIOS GUAIDOS/U2ACT1 Ejercicio de Lista Enlazada Simple con VisuAlgo.pdf | Content Cell |
