@@ -53,4 +53,4 @@
  | GUIADOS | Second Header |
 | ------------- | ------------- |
 | U2ACT1 Ejercicio de Lista Enlazada Simple con VisuAlgo  | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS/U2ACT1%20Ejercicio%20de%20Lista%20Enlazada%20Simple%20con%20VisuAlgo.pdf)|
-|  | Content Cell |
+| google | [Ir a Google](https://www.google.com) |
