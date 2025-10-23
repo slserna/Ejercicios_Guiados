@@ -46,7 +46,7 @@
 </div>
 
 
-<p> 
+
 [EJERCICIOS GUIADOS](https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUAIDOS)
 
  | GUIADOS | LINKS |
