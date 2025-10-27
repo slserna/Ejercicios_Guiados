@@ -64,3 +64,4 @@
  |EJERCICIOS| GUIADOS DOS| LINKS |
 | ------------- | --------| ------------- |
 | ACTIVIDAD EN CLASE|Ejercicio de Colas en Nearpod | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/Ejercicios_Guiados2/EjerciciosGuiados2/Colas.pdf)|
+| VIDEO DE PRUEBA| Ejercicio de Colas en NetBeans|  [Ver video](https://github.com/slserna/Ejercicios_Guiados/blob/main/Ejercicios_Guiados2/EjerciciosGuiados2/VideoDeCodigoCola.mkv)|
