@@ -50,7 +50,7 @@
 [EJERCICIOS GUIADOS](https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUAIDOS)
 
 |EJERCICIOS| GUIADOS | LINKS |
-| ------------- | ------------- |
+| ------------- |  --------|  ------------- |
 | U2ACT1 |Ejercicio de Lista Enlazada Simple con VisuAlgo  | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS)|
 | U2ACT1 |Quices De Java |[Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
 | U2ACT2 |Ejercicio de Pila con VisuAlgo|[Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS)|
@@ -62,5 +62,5 @@
 [EJERCICIOS GUIADOS 2](https://github.com/slserna/Ejercicios_Guiados/tree/main/Ejercicios_Guiados2/EjerciciosGuiados2)
 
  |EJERCICIOS| GUIADOS DOS| LINKS |
-| ------------- | ------------- |
+| ------------- | --------| ------------- |
 | ACTIVIDAD EN CLASE|Ejercicio de Colas en Nearpod | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/Ejercicios_Guiados2/EjerciciosGuiados2/Colas.pdf)|
