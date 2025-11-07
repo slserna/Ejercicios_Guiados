@@ -57,6 +57,8 @@
 | U2ACT2 |Lista Encantada Humana en Java |  [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
 | U2ACT3 |Práctica Manual y Algorítmica Lista | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/EJERCICIOS%20GUAIDOS) |
 | U2ACT2 |Especificación de la Pila | [Ver codigos](https://github.com/slserna/Ejercicios_Guiados/tree/40b2b9e6b69116ad165bbb262ce992f831ba36d5/U2ACT2%20Especificaci%C3%B3n%20de%20la%20Pila) |
+| U2ACT |Ejercicio de neardpod de pilas | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/EJERCICIOS%20GUAIDOS/Neardpod%20Pilas.pdf) |
+
 
 
 [EJERCICIOS GUIADOS 2](https://github.com/slserna/Ejercicios_Guiados/tree/main/Ejercicios_Guiados2/EjerciciosGuiados2)
