@@ -69,7 +69,7 @@
 | VIDEO DE PRUEBA| Ejercicio de Colas en NetBeans|  [Ver video](https://github.com/slserna/Ejercicios_Guiados/blob/main/Ejercicios_Guiados2/EjerciciosGuiados2/VideoDeCodigoCola.mkv)|
 
 
-[EJERCICIOS GUIADOS 3(https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUIADOS%20TRES)
+[EJERCICIOS GUIADOS 3](https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUIADOS%20TRES)
 
 |EJERCICIOS| GUIADOS | LINKS |
 | ------------- |  --------|  ------------- |
