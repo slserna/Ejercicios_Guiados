@@ -67,3 +67,20 @@
 | ------------- | --------| ------------- |
 | ACTIVIDAD EN CLASE|Ejercicio de Colas en Nearpod | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/Ejercicios_Guiados2/EjerciciosGuiados2/Colas.pdf)|
 | VIDEO DE PRUEBA| Ejercicio de Colas en NetBeans|  [Ver video](https://github.com/slserna/Ejercicios_Guiados/blob/main/Ejercicios_Guiados2/EjerciciosGuiados2/VideoDeCodigoCola.mkv)|
+
+
+[EJERCICIOS GUIADOS 3(https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUIADOS%20TRES)
+
+|EJERCICIOS| GUIADOS | LINKS |
+| ------------- |  --------|  ------------- |
+| U2ACT |Ejercicio de Colas en Nearpod | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/EJERCICIOS%20GUIADOS%20TRES/Colas%20en%20Nearpod.pdf)|
+| U2ACT |Ejercicio en Netbeans de Mi Pila |[Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/EJERCICIOS%20GUIADOS%20TRES/MyPila.java) |
+| U2ACT |Video de Prueba |[Ver video](https://github.com/slserna/Ejercicios_Guiados/blob/main/EJERCICIOS%20GUIADOS%20TRES/Video%20de%20Prueba%20de%20Pila.mkv)|
+
+
+[EJERCICIOS GUIADOS 4](https://github.com/slserna/Ejercicios_Guiados/tree/main/EJERCICIOS%20GUIADOS%20CUATRO)
+
+ |EJERCICIOS| GUIADOS DOS| LINKS |
+| ------------- | --------| ------------- |
+| ACTIVIDAD EN CLASE|Ejercicio de ordenamiento de borbuja | [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/EJERCICIOS%20GUIADOS%20CUATRO/ORDENAMIENTO%20BURBUJA.pdf)|
+| ACTIVIDAD EN CLASE|Ejercicio de ordenamiento de insercion y selección |  [Ver ejercicio](https://github.com/slserna/Ejercicios_Guiados/blob/main/EJERCICIOS%20GUIADOS%20CUATRO/ORDENAMIENTO%20INSERCION%2C%20SELECCI%C3%93N.pdf)|
